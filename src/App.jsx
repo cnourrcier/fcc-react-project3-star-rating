@@ -1,5 +1,4 @@
 
-import './App.css';
 import StarRating from './components/starRating';
 
 function App() {
